@@ -1,0 +1,18 @@
+.container {
+  background-color: #ffffff;
+  padding: 32px;   /*ic bosluk*/
+  width: 100%;    /*genislik*/
+  max-width: 380px;
+  border-radius: 12px;   /* kenar yumusaklıgı*/
+  box-shadow: 0 10px 25px rgba(6, 24, 73, 0.371); /*yatay golge,dikey golge,bulaniklik,renk*/
+}
+
+.login-btn {
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: #111;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
